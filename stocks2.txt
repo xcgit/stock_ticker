@@ -1,0 +1,11 @@
+# 股票行情配置
+# 格式: 股票代码  预警价格阈值(可选)
+# 预警阈值：当股价 <= 阈值时，托盘图标闪烁提示
+
+603899
+512890
+
+[config]
+refresh_interval = 5
+display_interval = 2
+flash_interval = 0.5
